@@ -10,7 +10,6 @@
 - 💬 Languages: native Spanish, fluent Portuguese and basic English
 - 🔗 I like to work in groups, to read, to learn new things
 
-
 <!--
 **mmedicci/mmedicci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
