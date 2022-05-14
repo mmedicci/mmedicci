@@ -3,7 +3,9 @@
 
 ### Hi there 👋
 
-- 👩‍💻🤓 I´m currently a PhD student in Biological Oceanography
+- 🦈 I´m currently a PhD student in Biological Oceanography
+- 👩‍💻 I´m currently currently studying full-stack at @toti-edu 
+- 💬 Languages: native Spanish, fluent Portuguese and basic English
 
 
 <!--
