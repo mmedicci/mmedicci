@@ -1,11 +1,13 @@
 ## Maria Rondon-Medicci
-## Biologist
+## Biologist. Venezuelan living in Brazil
 
 ### Hi there 👋
 
 - 🦈 I´m currently a PhD student in Biological Oceanography
-- 👩‍💻 I´m currently currently studying full-stack at @toti-edu 
+- 👩‍💻 I´m currently studying full-stack at @toti-edu
+- 💻 I´m specializing in programming technologies 
 - 💬 Languages: native Spanish, fluent Portuguese and basic English
+- 🔗 I like to work in groups, to read, to learn new things
 
 
 <!--
