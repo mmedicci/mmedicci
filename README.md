@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou Maria Rondon-Medicci
+## Maria Rondon-Medicci
 
 
 <!--
