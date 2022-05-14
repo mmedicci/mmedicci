@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- I´m currently 
+- 👩‍💻🤓 I´m currently a PhD student in Biological Oceanography
 
 
 <!--
