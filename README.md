@@ -1,5 +1,6 @@
 ## Maria Rondon-Medicci
-## Biologist. Venezuelan living in Brazil
+## Biologist
+   Venezuelan living in Brazil
 
 ### Hi there 👋
 
