@@ -5,9 +5,10 @@
 ### Hi there 👋
 
 - 🦈 I´m currently a PhD student in Biological Oceanography
+- 💻I'm a Data Analyst
 - 👩‍💻 I´m currently studying full-stack at @toti-edu
 - 💻 I´m specializing in programming technologies 
-- 💬 Languages: native Spanish, fluent Portuguese and basic English
+- 💬 Languages: native Spanish, fluent Portuguese, and intermediary English
 - 🔗 I like to work in groups, to read, to learn new things
 
 
